@@ -2,7 +2,7 @@
     "name": "image-gen-api-extension",
     "displayName": "image-gen-api-extension",
     "description": "An Extension To Make Endpoints for Image Gen API Repo",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.31.0"
     },

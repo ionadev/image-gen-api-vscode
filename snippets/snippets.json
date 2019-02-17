@@ -1,0 +1,27 @@
+{
+    "Image-Gen-API": {
+        "prefix": "endpoint",
+        "body": [
+            "/* Import Packages */",
+            "const {",
+            "    createCanvas,",
+            "    loadImage",
+            "} = require('canvas');",
+            "const path = require('path');",
+            "",
+            "/* Export Function */",
+            "module.exports = async function YourEndpoint(...params) {",
+            "",
+            "    /*Your Code In Here */",
+            "    ;",
+            "    } catch (err) {",
+            "        return [",
+            "            false,",
+            "            err.message",
+            "        ]",
+            "    }",
+            "}"
+        ],
+        "description": "Image-Gen-API"
+    }
+}
